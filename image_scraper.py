@@ -5,7 +5,7 @@ from PIL import Image
 import aiohttp
 import os
 
-discord_token = "MTEwMzUyNzQ1MTgzOTE4MDgwMA.GahK9Y.I2NojlEOCP9RA1RAmrkP90fn18qdvTCmL6vjU0"
+discord_token = ""
 
 load_dotenv()
 client = commands.Bot(command_prefix="!", intents=discord.Intents.all())
