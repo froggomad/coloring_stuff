@@ -1,0 +1,9 @@
+aiohttp==3.8.4
+discord.py==2.2.3
+openai_async==0.0.3
+Pillow==9.5.0
+PyAutoGUI==0.9.54
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+reportlab==4.0.0
+tqdm==4.65.0
